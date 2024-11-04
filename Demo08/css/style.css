@@ -1,0 +1,50 @@
+.pasteclr{
+    background-color: rgb(29, 205, 141);
+    color: white;
+}
+.pasteclrone{
+    background-color:  rgb(205, 243, 229);
+    color: rgb(16, 1, 1);
+}
+.learnmorebtn{
+    background-color: black;
+    color: white;
+}
+.learnmorebtnone {
+    background-color: black;
+    color: white;
+}
+.learnmorebtn:hover{
+    background-color: white;
+    color: rgb(16, 1, 1);
+}
+.Experiencefont{
+    font-size: 74px;
+    font-weight: 700;
+}
+
+.thistextbackground{
+    background-color:  rgb(244, 244, 244);;
+}
+
+.blackgrnd{
+background-color:  rgb(26, 37, 41);
+color: rgb(255, 255, 255);
+}
+.card-img-icon {
+    max-width: 80px; /* Set a fixed width for the image */
+    max-height: 80px; /* Set a fixed height for the image */
+    object-fit: cover; /* Keep image aspect ratio */
+    margin-right: 1rem;
+}
+.contact-container {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.social-icons i {
+    font-size: 24px;
+    color: #efe9e9;
+    margin-right: 15px;
+}
